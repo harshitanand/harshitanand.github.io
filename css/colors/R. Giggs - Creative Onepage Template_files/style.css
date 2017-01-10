@@ -65,7 +65,7 @@ p{
 
 .percentage>span {
     position: relative;
-		float: right;
+		align: left;
     top: -8px;
     display: inline-block;
     padding: 0 10px;
